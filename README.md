@@ -1,8 +1,9 @@
-# Python: Getting Started
+# Flask Tietokantaohjelma
 
-A barebones Django app, which can easily be deployed to Heroku.
+Djangon avulla lähetetty Herokuun.
 
-This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+Rawaz Ayad
+Metropolia
 
 ## Running Locally
 
